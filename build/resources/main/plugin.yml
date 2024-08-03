@@ -1,0 +1,6 @@
+name: MinigamePlugin
+version: '1.0-SNAPSHOT'
+main: org.zbinfinn.minigameplugin.MinigamePlugin
+api-version: '1.20'
+commands:
+  arena:
